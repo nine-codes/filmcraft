@@ -3606,7 +3606,7 @@
 	Start: {tc}	Početak: {tc}
 	End: {tc}	Kraj: {tc}
 	Duration: {tc}	Trajanje: {tc}
-	Animate zoom, scrolling and menus	Animiraj zumiranje, pomicanje i menije
+	Animate zoom, scrolling and menus	Animiraj zumiranje, pomjeranje i menije
 	Reset Interface Zoom	Vrati zumiranje interfejsa
 	Track Color	Boja trake
 	Open a sequence to search its graphics	Otvorite sekvencu da pretražite njene grafike
